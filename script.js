@@ -1,6 +1,3 @@
-// Get hash value
-let hash = window.location.hash;
-
 // Content element
 let content = document.getElementById("content");
 
